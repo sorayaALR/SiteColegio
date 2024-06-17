@@ -9,6 +9,9 @@ Projeto de front-end em páginas estáticas para integração com back-end do Co
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div><br> 
+<h3>Imagem do projeto:</h3>
+<img width="400px" src="https://i.imgur.com/2zvDrin.jpeg" alt="Nacional" >
 
+<br> <br> 
 <h3>O projeto pode ser visto em:</h3>
 https://sorayaribeiro.github.io/Colegio.Nacional/
